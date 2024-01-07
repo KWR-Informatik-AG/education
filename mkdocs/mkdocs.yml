@@ -14,44 +14,5 @@ theme:
     - navigation.sections
   language: de
 nav:
-  - Startseite: https://kwr-informatik-ag.github.io/
-  - Willkommen: index.md
-
-  - Devops:
-    - "Start": devops/index.md
-    - Git:
-      - "Was ist Git": devops/git/index.md
-  
-  - Programmiersprachen:
-    - "Start": languages/index.md
-    - HTML:
-      - "Einführung": languages/html/index.md
-    - CSS:
-      - "Einführung": languages/css/index.md
-    - Javascript:
-      - "Einführung": languages/javascript/index.md
-    - Typescript:
-      - "Einführung": languages/typescript/index.md
-    #  - Python: # Free-For-All to extend on
-    #    - "Einführung": languages/python/index.md
-    #  - C: # Free-For-All to extend on
-    #    - "Einführung": languages/javascript/index.md
-    #  - C#: # Free-For-All to extend on
-    #    - "Einführung": languages/javascript/index.md
-    #  - C++: # Free-For-All to extend on
-    #    - "Einführung": languages/javascript/index.md
-    #  - Java: # Free-For-All to extend on
-    #    - "Einführung": languages/java/index.md
-
-
-  - Frontend:
-    - "Start": frontend/index.md
-    - NodeJS:
-      - Erste Schritte:
-        - "Schnellanleitung": frontend/nodejs/getting-started/quick-guide.md
-        - "Installation": frontend/nodejs/getting-started/installation.md
-      - Tutorial:
-        - "Grundlagen": frontend/nodejs/tutorial/grundlagen.md
-    - Svelte:
-      - Erste Schritte:
-        - "Einführung": frontend/svelte/getting-started/introduction.md
+  - Hauptseite: https://kwr-informatik-ag.github.io/
+  - Startseite: index.md
