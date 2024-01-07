@@ -20,6 +20,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.expand
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
@@ -74,7 +75,5 @@ plugins:
 
 nav:
   - Startseite: index.md
-  - Server: server/index.md
   - Projekte:
-    - projekte/index.md
     - Werwolf Webapp: projekte/werwolf-webapp/index.md
