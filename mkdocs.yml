@@ -72,7 +72,6 @@ plugins:
   - search
 
 nav:
-  - Hauptseite: https://kwr-informatik-ag.github.io/
   - Startseite: index.md
   - Server: server/index.md
   - Projekte:
