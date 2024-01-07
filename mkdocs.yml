@@ -2,6 +2,7 @@
 site_name: Dokumentation
 site_author: Johann Friedrich Heuer
 site_description: Dokumentation für die Informatik AG am Kaiser-Wilhelm- und Ratsgymnasium Hannover 
+site_url: https://github.com/kwr-informatik-ag/documentation/
 
 # Repository
 repo_name: GitHub Repository
