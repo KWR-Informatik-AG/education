@@ -48,9 +48,29 @@ theme:
   logo: assets/images/logo-full.png
 
 extra:
+  homepage: https://kwr-informatik-ag.github.io/
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/kwr-informatik-ag/
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+plugins:
+  - social
+  - search
+
 nav:
   - Hauptseite: https://kwr-informatik-ag.github.io/
   - Startseite: index.md
