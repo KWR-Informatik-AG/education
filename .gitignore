@@ -9,3 +9,7 @@ __pycache__
 # Build directories
 site
 build
+
+# Temporary Files
+TODO
+tmp
