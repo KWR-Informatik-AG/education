@@ -21,10 +21,12 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
+    - navigation.path
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.sections
+    - navigation.indexes
     - search.suggest
   language: de
   palette:
@@ -76,4 +78,5 @@ plugins:
 nav:
   - Startseite: index.md
   - Projekte:
+    - projekte/index.md
     - Werwolf Webapp: projekte/werwolf-webapp/index.md
