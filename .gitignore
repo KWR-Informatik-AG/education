@@ -1,1 +1,11 @@
-site/
+# ---------- #
+#   Python   #
+# ---------- #
+
+# Caches and Logs
+.cache
+__pycache__
+
+# Build directories
+site
+build
